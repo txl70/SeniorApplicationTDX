@@ -1,0 +1,6 @@
+C:\Users\THIAGO LIMA\source\repos\SeniorApplication\Validator\obj\Debug\Validator.csprojAssemblyReference.cache
+C:\Users\THIAGO LIMA\source\repos\SeniorApplication\Validator\obj\Debug\Validator.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO LIMA\source\repos\SeniorApplication\Validator\bin\Debug\Validator.dll
+C:\Users\THIAGO LIMA\source\repos\SeniorApplication\Validator\bin\Debug\Validator.pdb
+C:\Users\THIAGO LIMA\source\repos\SeniorApplication\Validator\obj\Debug\Validator.dll
+C:\Users\THIAGO LIMA\source\repos\SeniorApplication\Validator\obj\Debug\Validator.pdb
